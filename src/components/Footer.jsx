@@ -1,7 +1,3 @@
-export const Footer = () => {
-  return (
-    <div>
-      <p>Copyright ©</p>
-    </div>
-  );
+export const Footer = ({ madeBy }) => {
+  return <div>Copyright © 2023 {madeBy}</div>;
 };

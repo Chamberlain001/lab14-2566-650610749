@@ -58,7 +58,7 @@ export default function FoodReviewPage() {
       <Pagination total={20} mt="md" position="center" color="orange" />
 
       <Text align="center" c="dimmed" mt="sm">
-        <Footer madeBy="Chayanin Suatap 650610560" />
+        <Footer madeBy="Kitpakorn Thongkot 650610749" />
       </Text>
     </Container>
   );
